@@ -1,23 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana TM</h1>
 <h3 align="center">Final Year Engineering Student | IoT & Embedded Systems Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/meghana-t-m-423689264">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://github.com/meghanatm17">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
-  </a>
-  <a href="https://drive.google.com/file/d/1G8bXKrGYJamEQt-cmOyzFatS1daHw8re/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Resume-green?style=flat&logo=googledrive">
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meghanatm17&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 👩‍💻 About Me
 - 🎓 Final year engineering student from India 🇮🇳
@@ -63,22 +47,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghanatm17&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanatm17&theme=default" height="160"/>
-</p>
 
----
-
-## 🌟 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanatm17&layout=compact" />
-</p>
-
----
-
-⭐ *Actively seeking opportunities to apply my skills, gain industry exposure, and grow as a professional engineer.*
 
 
 ## 🌐 Socials:
