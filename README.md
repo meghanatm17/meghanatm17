@@ -1,6 +1,30 @@
-# 💫 About Me:
-Hi 👋 I’m Meghana<br>An engineering student passionate about IoT, Embedded Systems, and Automation.<br>I enjoy building real-world projects and continuously learning new technologies.
+<h1 align="center">Hi 👋, I'm Meghana TM</h1>
+<h3 align="center">An engineering student & tech enthusiast from India 🇮🇳</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+- 🌱 I’m currently learning **IoT, Embedded Systems, and Python Development**
+- 👩‍💻 I’m interested in **Automation, Smart Systems, and Real-world Tech Solutions**
+- 📂 All of my projects are available on **GitHub**
+- 💬 Ask me about **Python, C, MySQL, Excel, IoT, and RFID**
+- 📫 Reach me at **your-email@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+- **Python**
+- **C**
+- **MySQL**
+- **Excel**
+- **IoT & RFID**
+
+---
+
+⭐ *Always curious to learn, build, and grow in tech*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meghanagowda_172) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/meghana-t-m-423689264) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Meghanagowda_1721) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghanatm66@gmail.com) 
