@@ -1,30 +1,85 @@
 <h1 align="center">Hi 👋, I'm Meghana TM</h1>
-<h3 align="center">An engineering student & tech enthusiast from India 🇮🇳</h3>
+<h3 align="center">Final Year Engineering Student | IoT & Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/meghana-t-m-423689264">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://github.com/meghanatm17">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
+  </a>
+  <a href="https://drive.google.com/file/d/1G8bXKrGYJamEQt-cmOyzFatS1daHw8re/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Resume-green?style=flat&logo=googledrive">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meghanatm17&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **IoT, Embedded Systems, and Python Development**
-- 👩‍💻 I’m interested in **Automation, Smart Systems, and Real-world Tech Solutions**
-- 📂 All of my projects are available on **GitHub**
-- 💬 Ask me about **Python, C, MySQL, Excel, IoT, and RFID**
-- 📫 Reach me at **your-email@gmail.com**
+## 👩‍💻 About Me
+- 🎓 Final year engineering student from India 🇮🇳
+- 🌱 Currently learning **IoT, Embedded Systems, Python & Automation**
+- 🔭 Strong interest in **Smart Systems, RFID & Real-world problem solving**
+- 💬 Ask me about **Python, C, MySQL, Excel, IoT**
+- 📫 Contact: **meghanatm66@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
-- **Python**
-- **C**
-- **MySQL**
-- **Excel**
-- **IoT & RFID**
+## 🛠️ Technical Skills
+**Programming Languages**  
+- Python  
+- C  
+
+**Databases & Tools**  
+- MySQL  
+- Excel  
+- Git & GitHub  
+
+**Core Domains**  
+- IoT  
+- Embedded Systems  
+- RFID  
+- Automation Systems  
 
 ---
 
-⭐ *Always curious to learn, build, and grow in tech*
+## 📌 Featured Projects
+🔹 **RFID-Based Smart Attendance System**  
+- Automated attendance using RFID technology  
+- Improved accuracy and reduced manual effort  
+
+🔹 **IoT-Based Smart System Projects**  
+- Real-time monitoring and automation  
+- Sensor and microcontroller integration  
+
+🔹 **Embedded System Applications**  
+- Hardware–software integration  
+- Focused on practical, real-world use cases  
+
+👉 More projects available on my **GitHub repositories**
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghanatm17&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanatm17&theme=default" height="160"/>
+</p>
+
+---
+
+## 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanatm17&layout=compact" />
+</p>
+
+---
+
+⭐ *Actively seeking opportunities to apply my skills, gain industry exposure, and grow as a professional engineer.*
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meghanagowda_172) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/meghana-t-m-423689264) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Meghanagowda_1721) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghanatm66@gmail.com) 
