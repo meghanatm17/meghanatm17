@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meghana TM</h1>
 <h3 align="center">Final Year Engineering Student | IoT & Embedded Systems Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meghanatm17&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
+---
 
 ## 👩‍💻 About Me
 - 🎓 Final year engineering student from India 🇮🇳
